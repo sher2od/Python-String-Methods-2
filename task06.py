@@ -1,5 +1,5 @@
 email = input("Emailni kiriting: ")
 
-index = email.find("@")  # .find() metodidan foydalanamiz
+index = email.find("@")  
 
 print("@ belgisi indeksi:", index)
